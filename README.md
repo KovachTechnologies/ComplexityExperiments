@@ -1,2 +1,2 @@
 # ComplexityExperiments
-Experiments in complexity including the Mandelbrot set, cellular automata, Lorentz attractors and much more
+Experiments in complexity including the Mandelbrot set, cellular automata, Lorenz attractors and much more
