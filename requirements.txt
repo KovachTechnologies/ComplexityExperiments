@@ -1,0 +1,12 @@
+# requirements.txt
+# Core scientific computing and visualization
+numpy>=1.24.0
+scipy>=1.10.0
+matplotlib>=3.7.0
+pandas>=2.0.0
+
+# For elementary cellular automata (Wolfram rules)
+cellpylib>=2.0.0
+
+# Optional / nice-to-have (used in some complexity scripts)
+tqdm>=4.65.0          # progress bars (especially useful for long simulations)
